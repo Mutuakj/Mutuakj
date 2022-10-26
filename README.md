@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Androistar
+- 👋 Hi, I’m @mutuakj
 - 👀 I’m interested in ... Android App Development
 - 🌱 I’m currently learning ... Kotlin Programming 
 - 💞️ I’m looking to collaborate on ... programming 
